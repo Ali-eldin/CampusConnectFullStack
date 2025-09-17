@@ -9,7 +9,7 @@
 
 ## 🚀 Messaging & Learning App!
 
-CampusConnect is a powerful and feature-rich messaging and learning platform, designed to provide a seamless communication experience while integrating AI-powered study tools. Built using a modern tech stack, it ensures high performance, security, and scalability.
+CampusConnectfullStack is a powerful and feature-rich messaging and learning platform, designed to provide a seamless communication experience while integrating AI-powered study tools. Built using a modern tech stack, it ensures high performance, security, and scalability.
 
 ---
 
